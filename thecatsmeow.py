@@ -2,7 +2,9 @@
 #
 # Description: Thecatsmeow
 #
-#       Author: Levle
+#       Authors:
+#               Taylor Pennington @ CORE Security Technologies, CORE SDI Inc.
+#               Level @ CORE Security Technologies, CORE SDI Inc.
 #
 #       Use: python thecatsmeow.py password_list.txt 10
 #	     This will provide the top ten most occuring hashcat masks
